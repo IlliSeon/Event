@@ -18,5 +18,5 @@ typedef struct {
 3.  Reset: ```  RESET_EVENT (__EVENT)```;
 
 
-4.  Init: ```   INIT_EVENT(__EVENT,__INIT_VALUE,__MANUAL)
-```
+4.  Init: ```   INIT_EVENT(__EVENT,__INIT_VALUE,__MANUAL)```
+
