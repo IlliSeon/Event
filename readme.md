@@ -1,12 +1,12 @@
-#背景知识提要：
-##1.  EVENT的基本知识
+# 背景知识提要：
+## 1.  EVENT的基本知识
 ```
 typedef struct {
         bool bAutoReset;
         bool bIsSet;
     } event_t;
 ```
-##2.Event的基本操作
+## 2.Event的基本操作
 
 
 1.   Set： ```SET_EVENT (__EVENT)```
